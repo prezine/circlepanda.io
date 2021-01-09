@@ -5,12 +5,12 @@
 
           <!-- Brand -->
           <h2 class="font-family-serif text-white mb-1">
-            <img src="./img/logo-2.png" alt="">
+            <img src="./assets/img/logo-2.png" alt="" class="__logo">
           </h2>
 
           <!-- Text -->
-          <p class="text-white-60">
-            A better way to build.
+          <p class="text-white-60 pt-5">
+            Think . Create . Develop . Evolve
           </p>
 
         </div>
