@@ -58,9 +58,9 @@
           <div class="col-md-8 col-lg-6 text-center">
 
             <!-- Text -->
-            <p class="lead text-muted">
+            <!--<p class="lead text-muted">
               ...that specializes in Internet-related services and products, which includes fintech, real estate, transport, commerce, health, and software.
-            </p>
+            </p>-->
 
             <!-- Buttons -->
             <a class="btn btn-primary lift" href="#" target="_blank">
